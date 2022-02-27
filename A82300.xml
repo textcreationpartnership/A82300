@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of the Right Honourable Henry Earl of Warrington, upon his being sworn mayor of Chester in Novenber [sic] 1691.</title>
+            <author>Warrington, Henry Booth, Earl of, 1652-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82300</idno>
+            <idno type="STC">Wing D881A</idno>
+            <idno type="STC">ESTC R221151</idno>
+            <idno type="EEBO-CITATION">45789269</idno>
+            <idno type="OCLC">ocm 45789269</idno>
+            <idno type="VID">172580</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82300)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172580)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2639:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of the Right Honourable Henry Earl of Warrington, upon his being sworn mayor of Chester in Novenber [sic] 1691.</title>
+                  <author>Warrington, Henry Booth, Earl of, 1652-1694.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Dulwich College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mayors --  England --  Chester --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:172580:1"/>
+            <head>THE SPEECH OF THE RIGHT HONOURABLE, HENRY Earl of VVarrington, Upon his being SWORN MAYOR of Cheſter, In <hi>NOVENBER</hi> 1691.</head>
+            <opener>
+               <salute>GENTLEMEN,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> AM much obliged to you, for the reſpect you have done me, by putting this truſt into my hands; and your Kind<g ref="char:EOLhyphen"/>neſs is the greater, becauſe you did it without <hi>any Sollicita<g ref="char:EOLhyphen"/>tion</hi> on my part; for I did ſo little expect it, that I was extreamly Surprized when I Read my Predeceſſors Let<g ref="char:EOLhyphen"/>ter, which gave me to underſtand, That your <hi>Choice</hi> of a <hi>Mayor</hi> for the Year enſuing was fallen upon me; it is a <hi>great Truſt</hi> that you repoſe in me, and I hope I ſhall not Diſappoint you in the <hi>Confidence</hi> you have of me.</p>
+            <p>It is with ſome Inconvenience to my <hi>private Affairs,</hi> That I have taken this Journey; yet had my particular occaſions ſuffer'd <hi>more,</hi> I ſhould have made no difficulty in poſtponing them, when an opportunity offers it ſelf of doing <hi>any Service</hi> to the Publick, or to this <hi>Corporation;</hi> neither could I have been excu<g ref="char:EOLhyphen"/>ſable, if I ſhould have put ſo <hi>great</hi> a <hi>ſlight</hi> upon the reſpect and good will of my Friends, as to refuſe to Serve then in this, or any other Capacity.</p>
+            <p>By the <hi>Oath</hi> I have now taken, I have obliged my ſelf <hi>before God and the World,</hi> to that, to which my own inclinations did zealouſly diſpoſe me; for it was with <hi>extream Grief,</hi> when in the late Reigns I beheld your Liberties and Fran<g ref="char:EOLhyphen"/>chiſes were <hi>Raviſh'd</hi> from you: What in me lies, ſhall not be wanting to <hi>re<g ref="char:EOLhyphen"/>pair thoſe Breaches</hi> that have been made, and to prevent the like <hi>Invaſions</hi> for the Future.</p>
+            <p>I hope during <hi>this King's</hi> Life we are out of ſuch Dangers, ſince the offering up of <hi>Charters</hi> can be no <hi>acceptable Sacrifice</hi> to him, becauſe he came to the Crown upon <hi>Engliſh Principles,</hi> and Governing <hi>by ſuch Politicks, is that alone which can make him Safe and Glorious.</hi> But you may remember that lately we had Two Kings, to whom nothing was ſo acceptable, as the ſubmit<g ref="char:EOLhyphen"/>ting our Religion and Liberties to their Arbitrary Wills and Pleaſure; and this Nation was then ſo unfortunate, as to have a Party in it, tho much the leaſt, who were induſtrious to comply with thoſe two Kings in their wicked Deſires</p>
+            <pb facs="tcp:172580:2"/>
+            <p>The firſt ſtep made by that Party was in their <hi>fulſome Addreſſes,</hi> where they deliver'd up themſelves and all they had, to be diſpoſed of at the Kings Pleaſure: Making <hi>no other claim</hi> to their Liberties and Civil Rights, but as <hi>conceſſions from the Crown;</hi> telling the King withal, That every one of his Commands was <hi>Stampt</hi> with <hi>God's Authority,</hi> and a great deal of ſuch nauſeous Stuff, much fit<g ref="char:EOLhyphen"/>ter to be offer'd to ſome <hi>Eaſtern</hi> Monarch, or the <hi>French</hi> King, than to a King of <hi>England</hi> governing by the Laws of the Realm.</p>
+            <p>Well had it been, if their Falſhood and Flattery had gone no further; but contrary to their Oath, and the Truſt repoſed in them, they proceeded to the Surrendring of Charters; a thing ſo contrary to <hi>Juſtice,</hi> and <hi>inconſiſtent</hi> with the <hi>Fundamentals</hi> of the Government of <hi>England,</hi> that if ſuch Surrenders can be juſtified, I don't ſee what can be <hi>Diſhoneſt</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>nlawful:</hi> yet ſuch Proceedings became a <hi>Teſt</hi> of Loyalty, by which they thought to recommend themſelves to the Kings Favour, whilſt thoſe who <hi>diſſented</hi> in this point were accounted <hi>diſaffect<g ref="char:EOLhyphen"/>ed</hi> to the Government, and were loaded with all manner of Reproaches: But Gen<g ref="char:EOLhyphen"/>tlemen, till then it never was accounted <hi>Liberality,</hi> to be generous at the <hi>expence</hi> of others; nor the uſual way of recommending a mans Fidelity, by <hi>betraying</hi> of a <hi>Truſt;</hi> nor to bring a mans <hi>word</hi> into <hi>credit</hi> by making <hi>Light of an Oath.</hi>
+            </p>
+            <p>Theſe things I mention, not that I deſire to keep up <hi>diviſions</hi> amongſt us, or to diſcourage any that are <hi>ſorry</hi> for what they have done, and are willing to come into the <hi>Intereſt</hi> of this Government; for I wiſh from my Soul that we were all of a mind; but I mention theſe things, to teſtify my diſlike of <hi>ſuch Pro<g ref="char:EOLhyphen"/>ceedings,</hi> and to ſhew how much I deſire to prevent the like for the future. For I am ſure no man can be <hi>hearty</hi> for this Government, who does not <hi>abhor</hi> ſuch Proceedings as theſe were. And ſaying this, it puts me in mind of an Obſer<g ref="char:EOLhyphen"/>vation which I have made for ſome time, which is this, That generally thoſe people who <hi>refuſe</hi> to take the <hi>Oaths</hi> to this King and Queen, are ſuch as were active in, or conſenting to the <hi>ſurrendring</hi> of <hi>Charters,</hi> which ſhews they are men of extraordinary Conſciences, who think it <hi>unlawful</hi> to Swear to this Go<g ref="char:EOLhyphen"/>vernment, and yet could think it not only <hi>lawful,</hi> but an act of <hi>unſhaken Loyalty,</hi> to break their <hi>Oaths,</hi> and <hi>betray their truſt.</hi>
+            </p>
+            <p>If there be any ſuch in this Corporation, I hope they are but few and will ſerve as <hi>Examples,</hi> not of <hi>Imitation,</hi> but <hi>Admonition,</hi> to put others in mind of their <hi>Oaths</hi> and <hi>Duty.</hi>
+            </p>
+            <p>
+               <hi>Gentlemen,</hi> Let us Preſerve our <hi>Liberties</hi> and <hi>Freedoms;</hi> he is the <hi>moſt Loyal Subject that walks the neareſt to the Laws;</hi> he that preſerves his Freedom and Birth-right, is better able to <hi>Serve</hi> his <hi>King</hi> and <hi>Countrey,</hi> than he that has <hi>parted</hi> with them. Had not our <hi>Forefathers</hi> obſerved this Rule, we had had <hi>no Liberties</hi> to boaſt of; and ſurely we are bound to leave our <hi>Poſterities</hi> in the ſame Freedoms which we received from our <hi>Forefathers.</hi> Therefore let us bleſs God and the King for our <hi>Wonderful Deliverance;</hi> and let not the <hi>Averſion</hi> of ſome to this <hi>Government,</hi> make us remiſs in our Duty.</p>
+            <p>But <hi>Gentlemen,</hi> in ſaying this, I don't deſign to perſuade any man to <hi>Rigorous Courſes,</hi> or to ſtretch the Law beyond its <hi>Fair</hi> and <hi>Natural Conſtruction,</hi> to ſerve a turn; I will never <hi>practiſe</hi> it my ſelf, nor adviſe another to it; I <hi>utterly diſli<g ref="char:EOLhyphen"/>ked</hi> ſuch Proceedings in the Two late Reigns, and I am not now <hi>better reconci<g ref="char:EOLhyphen"/>led</hi> to them. Let every man have Right according as the Merits of his Cauſe ſhall deſerve: Let no mans Complexion or Opinion weigh at all. This <hi>Impar<g ref="char:EOLhyphen"/>tial Method</hi> will beſt ſupport the Honour and Peace of the City: Such <hi>fair Treatment</hi> will convince many, of the <hi>Reaſonableneſs</hi> and <hi>Juſtice</hi> of this <hi>Govern<g ref="char:EOLhyphen"/>ment;</hi> at leaſt it will in a great meaſure <hi>ſtop the mouths of Gainſayers,</hi> and can<g ref="char:EOLhyphen"/>not fail to meet with good effect. What I have more to tell you is, That I ſhall ever Pray for, and Endeavour the Proſperity of this City.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin,</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick-Lane,</hi> 1691,</p>
+         </div>
+      </back>
+   </text>
+</TEI>
